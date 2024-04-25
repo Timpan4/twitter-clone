@@ -1,0 +1,9 @@
+{
+  "name": "rust-twitter-clone-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/rust-twitter-clone-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["rust-twitter-clone"],
+  "// targets": "to see all targets run: nx show project rust-twitter-clone-e2e --web",
+  "targets": {}
+}
