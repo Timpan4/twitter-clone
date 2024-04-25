@@ -47,7 +47,8 @@
       "options": {
         "targetName": "test"
       }
-    }
+    },
+    "@monodon/rust"
   ],
   "generators": {
     "@nx/next": {
